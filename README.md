@@ -3,7 +3,7 @@ I'm backend developer. I offer my services in developing web applications
 with Python, Golang, Rust and C. Let's team up on your project to make 
 money!
 
-![my photo](public/linkedin_compress.jpg "It's me")
+[comment]: <![my photo](public/linkedin_compress.jpg "It's me")>
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wawilow/)
