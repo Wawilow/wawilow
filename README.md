@@ -7,7 +7,7 @@ money!
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wawilow/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)]([#](https://www.upwork.com/freelancers/~0185d12b5ab378854d))
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~0185d12b5ab378854d)
 <br />
 
 ## Stack and technoligies
