@@ -52,4 +52,4 @@ money!
 [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)
 [![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wawilow108&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wawilow&theme=dark&size_weight=0.5&count_weight=0.5&byte_count=0.5&repo_count=0.5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
