@@ -53,3 +53,9 @@ money!
 [![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wawilow&size_weight=0.0&count_weight=0.5&byte_count=0.5&repo_count=0.5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+<p>
+  <a href="https://github.com/wawilow">
+    <img src="https://github-readme-stats.vercel.app/api?username=wawilow&show_icons=true&theme=graywhite&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="Operation Record - wawilow">
+  </a>
+</p>
