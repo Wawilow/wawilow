@@ -1,7 +1,5 @@
 # Hey, I'm George Vavilov
-I'm backend developer. I offer my services in developing web applications 
-with Python, Golang, Rust and C. Let's team up on your project to make 
-money!
+I'm backend developer.
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wawilow&size_weight=0.0&count_weight=0.5&byte_count=0.5&repo_count=0.5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
